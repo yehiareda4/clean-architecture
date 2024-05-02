@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_name" translatable="false">Aman Eltaryk</string>
+    <string name="no_data">لا توجد بيانات متاحة للعرض</string>
+    <string name="time_out">حدث خطأ ما ، انتهت مهلة الاتصال ، يرجى المحاولة مرة أخرى لاحقًا</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت</string>
+    <string name="something_went_wrong">هناك شئ خاطئ، يرجى المحاولة فى وقت لاحق</string>
+</resources>

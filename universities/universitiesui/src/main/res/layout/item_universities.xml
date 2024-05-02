@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/cl_conatiner"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/_12sdp"
+    android:layout_marginVertical="@dimen/_4sdp"
+    android:background="@drawable/bg_primary_light"
+    android:paddingHorizontal="@dimen/_6sdp"
+    android:paddingVertical="@dimen/_4sdp">
+
+    <TextView
+        android:id="@+id/tv_name"
+        style="@style/tv_sub_title"
+        android:layout_width="0dp"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:textAlignment="viewStart"
+        app:layout_constraintEnd_toStartOf="@+id/iv_action"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_state"
+        style="@style/tv_text"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_width="0dp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:textAlignment="viewStart"
+        app:layout_constraintEnd_toStartOf="@+id/iv_action"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_name" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_action"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:elevation="@dimen/_2sdp"
+        android:layoutDirection="ltr"
+        android:rotation="180"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_back_new" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

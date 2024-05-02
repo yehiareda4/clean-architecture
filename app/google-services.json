@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "986434339875",
+    "project_id": "aait-taxi",
+    "storage_bucket": "aait-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986434339875:android:ac031ccc7c3771bd431d96",
+        "android_client_info": {
+          "package_name": "com.aait.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAbrYwHy3IcEm-UW6mE8ABaXR6kAh77k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986434339875-6jcvvatthnmpnfgqmfgtdmmsj3hnhs67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aait.AAIT-Taxi-Captain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986434339875:android:218f7129b5ab0963431d96",
+        "android_client_info": {
+          "package_name": "com.app.amnuhclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAbrYwHy3IcEm-UW6mE8ABaXR6kAh77k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986434339875-6jcvvatthnmpnfgqmfgtdmmsj3hnhs67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aait.AAIT-Taxi-Captain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986434339875:android:3021137ee92fc3b0431d96",
+        "android_client_info": {
+          "package_name": "com.app.amnuhclienttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAbrYwHy3IcEm-UW6mE8ABaXR6kAh77k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986434339875-6jcvvatthnmpnfgqmfgtdmmsj3hnhs67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aait.AAIT-Taxi-Captain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986434339875:android:f132e455edb6b56e431d96",
+        "android_client_info": {
+          "package_name": "com.app.amnuhmandriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAbrYwHy3IcEm-UW6mE8ABaXR6kAh77k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986434339875-6jcvvatthnmpnfgqmfgtdmmsj3hnhs67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aait.AAIT-Taxi-Captain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986434339875:android:a468b558ef27d964431d96",
+        "android_client_info": {
+          "package_name": "com.app.amnuhmandrivertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAbrYwHy3IcEm-UW6mE8ABaXR6kAh77k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986434339875-8p3tudhnn8ddqmtntc2pk3l856a4olts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986434339875-6jcvvatthnmpnfgqmfgtdmmsj3hnhs67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aait.AAIT-Taxi-Captain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

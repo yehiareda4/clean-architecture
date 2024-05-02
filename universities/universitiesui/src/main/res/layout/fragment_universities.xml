@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/colorBg"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/ly_tool_bar"
+        layout="@layout/layout_toolbar" />
+
+    <com.yehia.reda.mira_recycle_view_tools.lib.MiraRecycleViewV4
+        android:id="@+id/m_rv_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/margin_medium"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ly_tool_bar"
+        app:mira_attrs_enabled="true"
+        app:mira_attrs_error_enabled="true"
+        app:mira_countItem="15"
+        app:mira_error_image_type="lottie"
+        app:mira_error_message="@string/no_data"
+        app:mira_layout_manger="liner_layout_manger"
+        app:mira_refreshing="true"
+        app:mira_shimmer_layout="@layout/item_universities"
+        app:mira_toggle_show_error="gone"
+        app:mira_toggle_show_shimmer="visible" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

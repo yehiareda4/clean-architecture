@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="home_name" translatable="false">Aman Eltaryk</string>
+
+    <string name="no_data">No data available to display</string>
+    <string name="time_out">Something went wrong, Connection time out please try again later</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="something_went_wrong">Something went wrong, please try again later</string>
+
+</resources>
